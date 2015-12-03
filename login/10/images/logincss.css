@@ -1,0 +1,30 @@
+ {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	BACKGROUND: #3e81c0; FONT: 12px/2.3 Arial, Helvetica, sans-serif; COLOR: #fcfcfc
+}
+#wrap {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; LEFT: 50%; MARGIN: -304px 0px 0px -501px; BORDER-LEFT: #fff 1px solid; WIDTH: 1001px; BORDER-BOTTOM: #fff 1px solid; POSITION: absolute; TOP: 50%; HEIGHT: 608px
+}
+.login {
+	FONT-SIZE: 14px; LINE-HEIGHT: 1.8em
+}
+.textinput {
+	BORDER-RIGHT: #111a22 1px solid; BORDER-TOP: #111a22 1px solid; BACKGROUND: #e8e8e8; MARGIN-LEFT: 3px; BORDER-LEFT: #111a22 1px solid; WIDTH: 150px; LINE-HEIGHT: 19px; BORDER-BOTTOM: #111a22 1px solid; HEIGHT: 19px
+}
+.textinput1 {
+	BORDER-RIGHT: #111a22 1px solid; BORDER-TOP: #111a22 1px solid; BACKGROUND: #e8e8e8; MARGIN-LEFT: 3px; BORDER-LEFT: #111a22 1px solid; WIDTH: 60px; LINE-HEIGHT: 19px; BORDER-BOTTOM: #111a22 1px solid; HEIGHT: 19px
+}
+.codeinput {
+	BORDER-RIGHT: #111a22 1px solid; BORDER-TOP: #111a22 1px solid; BACKGROUND: #e8e8e8; MARGIN-LEFT: 3px; BORDER-LEFT: #111a22 1px solid; WIDTH: 150px; LINE-HEIGHT: 19px; BORDER-BOTTOM: #111a22 1px solid; HEIGHT: 19px
+}
+.codeinput {
+	WIDTH: 60px
+}
+.loginbt {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BACKGROUND: url(../images/loginbt.gif) no-repeat center center; BORDER-LEFT: mee; WIDone; WIDTH: 79px; CURSOR: pointer; BORDER-BOTTOM: medium none; HEIGHT: 75px;border-style:none;
+}
+.code IMG {
+	VERTICAL-ALIGN: inherit
+}

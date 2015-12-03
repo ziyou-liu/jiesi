@@ -1,0 +1,174 @@
+* {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 14px; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+HTML {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; BOTTOM: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial; BACKGROUND: #121212; COLOR: #bcb294; FONT-SIZE: 14px; TOP: 0px; RIGHT: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+BODY {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; BOTTOM: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial; BACKGROUND: #121212; COLOR: #bcb294; FONT-SIZE: 14px; TOP: 0px; RIGHT: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+A {
+	FONT-FAMILY: Arial; COLOR: #bcb294; FONT-SIZE: 14px
+}
+TABLE {
+	FONT-FAMILY: Arial; COLOR: #bcb294; FONT-SIZE: 14px
+}
+FORM {
+	FONT-FAMILY: Arial; COLOR: #bcb294; FONT-SIZE: 14px
+}
+TD {
+	FONT-FAMILY: Arial; COLOR: #bcb294; FONT-SIZE: 14px
+}
+LI {
+	FONT-FAMILY: Arial; COLOR: #bcb294; FONT-SIZE: 14px
+}
+UL {
+	FONT-FAMILY: Arial; COLOR: #bcb294; FONT-SIZE: 14px
+}
+.clear {
+	DISPLAY: none; HEIGHT: 0px; CLEAR: both
+}
+#Index {
+	POSITION: absolute; MARGIN-TOP: -380px; WIDTH: 1258px; BACKGROUND: url(Main.jpg) no-repeat; HEIGHT: 760px; MARGIN-LEFT: 625px; TOP: 50%
+}
+#Top {
+	MARGIN: 0px auto; WIDTH: 1260px; BACKGROUND: url(Index_Top.jpg) no-repeat; HEIGHT: 96px
+}
+#TopIntro {
+	MARGIN: 0px auto; WIDTH: 1260px; BACKGROUND: url(TopBg_Intro.jpg) no-repeat right 50%; HEIGHT: 92px; OVERFLOW: hidden
+}
+#Bg2 {
+	POSITION: absolute; MARGIN-TOP: -265px; WIDTH: 1260px; BACKGROUND: #121212; HEIGHT: 760px; TOP: 50%
+}
+#Maintop {
+	MARGIN: 0px auto; WIDTH: 1260px; HEIGHT: 211px
+}
+#Main {
+	MARGIN: 0px auto; WIDTH: 1260px; BACKGROUND: url(Index_Mid.jpg) no-repeat; HEIGHT: 245px
+}
+#MainMenu {
+	MARGIN: 0px auto; WIDTH: 1260px; BACKGROUND: url(Index_MenuBg.jpg); HEIGHT: 48px
+}
+#MainMenu H1 {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 44px; PADDING-LEFT: 430px; WIDTH: 120px; PADDING-RIGHT: 0px; FONT-FAMILY: "黑体"; FLOAT: left; COLOR: #cccccc; FONT-SIZE: 22px; FONT-WEIGHT: lighter; PADDING-TOP: 4px
+}
+#MainMenu H1 A:link {
+	LINE-HEIGHT: 44px; FONT-FAMILY: "黑体"; FLOAT: left; COLOR: #cccccc; FONT-SIZE: 22px; FONT-WEIGHT: lighter
+}
+#MainMenu H1 A:visited {
+	LINE-HEIGHT: 44px; FONT-FAMILY: "黑体"; FLOAT: left; COLOR: #cccccc; FONT-SIZE: 22px; FONT-WEIGHT: lighter
+}
+#MainMenu H1 A:hover {
+	LINE-HEIGHT: 44px; FONT-FAMILY: "黑体"; FLOAT: left; COLOR: #ff0000; FONT-SIZE: 22px; FONT-WEIGHT: lighter
+}
+#MainMenu H2 {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 44px; PADDING-LEFT: 0px; WIDTH: 120px; PADDING-RIGHT: 360px; FLOAT: right; COLOR: #cccccc; FONT-SIZE: 22px; FONT-WEIGHT: lighter; PADDING-TOP: 4px
+}
+#MainMenu H2 A:link {
+	LINE-HEIGHT: 44px; FLOAT: left; COLOR: #cccccc; FONT-SIZE: 22px; FONT-WEIGHT: lighter
+}
+#MainMenu H2 A:visited {
+	LINE-HEIGHT: 44px; FLOAT: left; COLOR: #cccccc; FONT-SIZE: 22px; FONT-WEIGHT: lighter
+}
+#MainMenu H2 A:hover {
+	LINE-HEIGHT: 44px; FLOAT: left; COLOR: #ff0000; FONT-SIZE: 22px; FONT-WEIGHT: lighter
+}
+#Title {
+	PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 370px; WIDTH: 890px; PADDING-RIGHT: 0px; BACKGROUND: url(Title_Intro.jpg) no-repeat; HEIGHT: 32px; COLOR: #ffbe00; FONT-SIZE: 20px; OVERFLOW: hidden; PADDING-TOP: 6px
+}
+.DTitleF {
+	TEXT-ALIGN: left; LINE-HEIGHT: 36px; MARGIN: 0px auto; PADDING-LEFT: 12px; WIDTH: 588px; FONT-FAMILY: "黑体"; BACKGROUND: url(Forgot.jpg) no-repeat; HEIGHT: 36px; COLOR: #ccc; FONT-SIZE: 18px
+}
+#LoginBG {
+	 MARGIN-TOP: -302px; WIDTH: 904px; HEIGHT: 645px;  OVERFLOW: hidden; margin:0 auto;
+}
+#Logo {
+	TEXT-ALIGN: right; MARGIN: 0px auto; WIDTH: 904px; HEIGHT: 118px
+}
+#Login_Main {
+	WIDTH: 904px; BACKGROUND: url(Login_Bg.jpg) no-repeat; HEIGHT: 447px
+}
+#Login_left {
+	MARGIN: 16px; WIDTH: 288px; BACKGROUND: url(Login_Img.jpg) no-repeat; FLOAT: left; HEIGHT: 415px
+}
+#Login_r_top {
+	LINE-HEIGHT: 45px; PADDING-LEFT: 4px; WIDTH: 516px; FONT-FAMILY: "黑体"; FLOAT: right; HEIGHT: 45px; COLOR: #d5d1c7; FONT-SIZE: 26px; PADDING-TOP: 36px
+}
+#Login {
+	PADDING-BOTTOM: 40px; PADDING-LEFT: 40px; WIDTH: 390px; PADDING-RIGHT: 40px; FLOAT: right; HEIGHT: 228px; MARGIN-RIGHT: 10px; PADDING-TOP: 70px
+}
+#Login H1 {
+	LINE-HEIGHT: 40px; PADDING-LEFT: 27px; WIDTH: 360px; FLOAT: left; HEIGHT: 40px; COLOR: #ebead9; FONT-SIZE: 14px; FONT-WEIGHT: lighter
+}
+#Login H2 {
+	LINE-HEIGHT: 40px; PADDING-LEFT: 45px; WIDTH: 345px; FLOAT: left; HEIGHT: 40px; COLOR: #ebead9; FONT-SIZE: 14px; FONT-WEIGHT: lighter
+}
+#Login H3 {
+	LINE-HEIGHT: 28px; PADDING-LEFT: 80px; WIDTH: 220px; FLOAT: left; HEIGHT: 58px; COLOR: #ebead9; PADDING-TOP: 10px
+}
+#Login .fangwen {
+	LINE-HEIGHT: 28px; PADDING-LEFT: 0px; WIDTH: 370px; FLOAT: left; HEIGHT: 58px; COLOR: #ebead9; PADDING-TOP: 10px
+}
+#Login H4 {
+	LINE-HEIGHT: 24px; PADDING-LEFT: 16px; WIDTH: 330px; FONT-FAMILY: Verdana; BACKGROUND: url(Login_Icon.jpg) no-repeat 0px 10px; FLOAT: left; HEIGHT: 24px; COLOR: #e1a02a; MARGIN-LEFT: 36px; FONT-SIZE: 12px; FONT-WEIGHT: lighter
+}
+#Login H5 {
+	LINE-HEIGHT: 40px; PADDING-LEFT: 31px; WIDTH: 125px; FLOAT: left; HEIGHT: 40px; COLOR: #ebead9; FONT-SIZE: 14px; FONT-WEIGHT: lighter
+}
+#Login H6 {
+	LINE-HEIGHT: 40px; MARGIN-TOP: 10px; WIDTH: 55px; PADDING-RIGHT: 160px; FLOAT: right; HEIGHT: 40px; FONT-SIZE: 14px
+}
+#Login_copy {
+	LINE-HEIGHT: 18px; WIDTH: 904px; FLOAT: left; HEIGHT: 60px; COLOR: #717171; FONT-SIZE: 12px
+}
+#bottom {
+	TEXT-ALIGN: center; MARGIN: 0px auto; PADDING-LEFT: 700px; WIDTH: 560px; BACKGROUND: #000000; HEIGHT: 60px; COLOR: #717171; CLEAR: both; FONT-SIZE: 12px; PADDING-TOP: 140px
+}
+A:link {
+	COLOR: #ff9000
+}
+A:visited {
+	COLOR: #ff9000
+}
+A:hover {
+	COLOR: #ffcc00
+}
+A:active {
+	COLOR: #ff9000
+}
+#Menu {
+	TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 1002px; HEIGHT: 40px; COLOR: #f6efdb; FONT-SIZE: 16px; PADDING-TOP: 56px
+}
+#Menu A:link {
+	TEXT-ALIGN: center; PADDING-LEFT: 16px; PADDING-RIGHT: 16px; COLOR: #f6efdb; FONT-SIZE: 16px
+}
+#Menu A:visited {
+	TEXT-ALIGN: center; PADDING-LEFT: 16px; PADDING-RIGHT: 16px; COLOR: #f6efdb; FONT-SIZE: 16px
+}
+#Menu A:hover {
+	TEXT-ALIGN: center; COLOR: #ffb800; FONT-SIZE: 16px
+}
+.MN {
+	FONT-FAMILY: Verdana; COLOR: #ff9900; FONT-SIZE: 17px
+}
+.MN A:link {
+	FONT-FAMILY: Verdana; COLOR: #ff9900; FONT-SIZE: 18px
+}
+.MN A:visited {
+	FONT-FAMILY: Verdana; COLOR: #ff9900; FONT-SIZE: 18px
+}
+.MN A:hover {
+	FONT-FAMILY: Verdana; COLOR: #dac9b9; FONT-SIZE: 18px; TEXT-DECORATION: underline
+}
+.MN A:active {
+	FONT-FAMILY: Verdana; COLOR: #ff9900; FONT-SIZE: 18px
+}
+.Botton {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; FONT-FAMILY: "黑体"; BACKGROUND: url(BotonBg.jpg) repeat-x; HEIGHT: 24px; COLOR: #624300; FONT-SIZE: 16px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.Inputtext {
+	BORDER-BOTTOM: #5c584a 1px solid; BORDER-LEFT: #5c584a 1px solid; PADDING-LEFT: 2px; FONT-FAMILY: Verdana; BACKGROUND: #3e3b2e; HEIGHT: 20px; COLOR: #bcb294; BORDER-TOP: #5c584a 1px solid; BORDER-RIGHT: #5c584a 1px solid; PADDING-TOP: 1px
+}
+.InputtextArea {
+	BORDER-BOTTOM: #5c584a 1px solid; BORDER-LEFT: #5c584a 1px solid; PADDING-LEFT: 2px; FONT-FAMILY: Verdana; BACKGROUND: #3e3b2e; COLOR: #bcb294; FONT-SIZE: 12px; BORDER-TOP: #5c584a 1px solid; BORDER-RIGHT: #5c584a 1px solid; PADDING-TOP: 1px
+}
